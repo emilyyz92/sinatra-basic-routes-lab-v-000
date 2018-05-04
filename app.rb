@@ -6,6 +6,6 @@ class App < Sinatra::Base
   end
 
   get '/hometown' do
-    "My hometown is Asia."
+    "My hometown is Shenyang."
   end
 end
